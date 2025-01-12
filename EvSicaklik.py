@@ -35,5 +35,5 @@ kombisimulasyon.compute()
 print(f"Sıcaklık: {sicaklik_degeri} derece")
 print(f"Kombi seviyesi: {kombisimulasyon.output['kombiseviye']:.2f}")
 
-# Sonuçları görselleştirin
+# Sonuçları görselleştiriyoruz
 kombiseviye.view(sim=kombisimulasyon)
